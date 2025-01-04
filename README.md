@@ -26,7 +26,7 @@ Este es un proyecto basado en un desafío de Frontend Mentor. El objetivo es con
 🌐 Deploy
 
 El proyecto está desplegado en Netlify.
-[Enlace al proyecto]
+https://relaxed-raindrop-3e84d0.netlify.app/
 
 ✨ Aprendizajes
 
